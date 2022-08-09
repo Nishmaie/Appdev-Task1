@@ -19,7 +19,7 @@ public class weiTest extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_wei_test);
+        setContentView(R.layout.activity_test);
         EditText input = (EditText) findViewById(R.id.input);
         EditText output = (EditText) findViewById(R.id.output);
         Spinner s1 = findViewById(R.id.spinner1);
